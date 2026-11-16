@@ -27,13 +27,13 @@ const PHOTO = {
 const i18n = {
  hu:{
   announcement:"Csengtu ízei, Budapest szívében.",navStory:"Történetünk",navMenu:"Étlap",navVisit:"Látogass el",navCta:"Az étlap",
-  heroEyebrow:"SZEC SUÁNI KONYHA · CSENGTU, 1980",heroTitle:"Egy kis agyagedény.<br><em>Nagy ízek.</em>",
+  heroEyebrow:"SZECSUÁNI KONYHA · CSENGTU, 1980",heroTitle:"Egy kis agyagedény.<br><em>Nagy ízek.</em>",
   heroDesc:"A szecsuáni konyha szíve — tüzes, illatos, megosztásra született. Most Budapest szívében.",
   exploreMenu:"Fedezd fel az étlapot",ourStory:"Ismerd meg a történetünket",heroFoot:"Hagyományos agyagedényekben készítve, szeretettel tálalva.",
   storyKicker:"A TÖRTÉNETÜNK",storyTitle:"Csengtuban született.<br><em>Budapesten otthon.</em>",
   storyText:"Minden egy családi konyhában kezdődött 1980-ban, Csengtuban. Ma ugyanazt az otthonos szecsuáni ízvilágot hozzuk el: gazdag fűszerek, friss alapanyagok és az asztalra érkező, gőzölgő agyagedények.",
   discoverPlace:"Találkozzunk Budapesten",photoCaption:"IGAZI CSENGTUI ÍZEK",storyQuote:"Jó étel. Jó társaság. Ez a szecsuáni asztal lelke.",
-  ritualKicker:"A SZEC SUÁNI ÉLMÉNY",ritualTitle:"Tűz. Agyag.<br><em>Egy csipet varázslat.</em>",
+  ritualKicker:"A SZECSUÁNI ÉLMÉNY",ritualTitle:"Tűz. Agyag.<br><em>Egy csipet varázslat.</em>",
   ritualDesc:"A hagyományos agyagedény megtartja a meleget, a fűszerek minden falatban életre kelnek. Érkezz éhesen, és oszd meg az ízeket!",
   ritualOne:"Frissen készítve",ritualTwo:"Merész szecsuáni ízek",ritualThree:"Megosztásra született",
   menuKicker:"AZ ASZTALODRA",menuTitle:"A kedvenceink.<br><em>Egyenesen Csengtuból.</em>",
